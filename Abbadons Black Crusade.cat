@@ -452,6 +452,14 @@
                     <entry id="ae3e86ac-82b6-455b-96b7-eb9dcc5d1d98" name="Re-roll" points="25.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
                       <entries/>
                       <entryGroups/>
+                       <characteristics>
+                        <characteristic name="HITS" characteristicTypeId="0bdf-a96e-9e38-7779" value="12"/>
+                        <characteristic name="SPEED" characteristicTypeId="e7f0-1278-0250-df0c" value="25cm"/>
+                        <characteristic name="TURNS" characteristicTypeId="381b-eb28-74c3-df5f" value="45°"/>
+                        <characteristic name="SHIELDS" characteristicTypeId="2218-aa3c-265f-2939" value="4"/>
+                        <characteristic name="ARMOUR" characteristicTypeId="9c9f-9774-a358-3a39" value="5+"/>
+                        <characteristic name="TURRETS" characteristicTypeId="f330-5e6e-4110-0978" value="4"/>
+                       </characteristics>
                       <modifiers/>
                       <rules/>
                       <profiles/>
